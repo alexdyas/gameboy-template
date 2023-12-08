@@ -1,7 +1,5 @@
+# gameboy-template
 
-An minimal template project with a Makefile that only compiles files in the same directory
+An minimal template for a GBDK GameBoy project
 
-The Makefile will automatically detect and compile new source files as long 
-as they are placed in the same directory as the Makefile
-
-
+Based on https://github.com/gbdk-2020/gbdk-2020/tree/develop/gbdk-lib/examples/gb/template_minimal
